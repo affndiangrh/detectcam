@@ -27,3 +27,19 @@ Anda dapat menginstal pustaka yang diperlukan dengan menggunakan `pip`:
 
 ```bash
 pip install opencv-python dlib
+```
+
+## Cara Menggunakan
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/affndiangrh/detectcam.git
+   ```
+2. **Masuk Ke Proyek File Kamu**
+   ```bash
+   cd face-detection-python
+   ```
+
+3. **Jalankan Codenya**
+   ```bash
+   py main.py

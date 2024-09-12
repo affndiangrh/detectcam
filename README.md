@@ -6,15 +6,14 @@ Proyek ini adalah implementasi deteksi wajah menggunakan Python. Proyek ini mema
 
 ## Fitur
 
-- **Deteksi Wajah**: Menggunakan model deteksi wajah untuk mengidentifikasi dan menandai wajah dalam gambar dan video.
-- **Realisasi Video**: Kemampuan untuk mendeteksi wajah dalam aliran video secara real-time.
-- **Ekstraksi Fitur Wajah**: Menyediakan fungsionalitas untuk ekstraksi fitur wajah seperti landmark wajah.
+- **Deteksi Wajah** : Menggunakan model deteksi wajah untuk mengidentifikasi dan menandai wajah dalam gambar.
+- **Ekstraksi Fitur Wajah** : Menyediakan fungsionalitas untuk ekstraksi fitur wajah seperti landmark wajah.
 
 ## Teknologi
 
-- **Python**: Bahasa pemrograman utama.
-- **OpenCV**: Pustaka untuk pengolahan gambar dan video. [Dokumentasi OpenCV](https://docs.opencv.org/)
-- **dlib**: Pustaka untuk deteksi wajah dan landmark wajah. [Dokumentasi dlib](http://dlib.net/)
+- **Python** : Bahasa pemrograman utama.
+- **OpenCV** : Pustaka untuk pengolahan gambar dan video. [Dokumentasi OpenCV](https://docs.opencv.org/)
+- **dlib** : Pustaka untuk deteksi wajah dan landmark wajah. [Dokumentasi dlib](http://dlib.net/)
 
 ## Prerequisites
 
@@ -43,3 +42,8 @@ pip install opencv-python dlib
 3. **Jalankan Codenya**
    ```bash
    py main.py
+```
+
+## Big Thanks
+
+- **DeaAfrizal** : Lihat Cara Full Di [Tutorial Full](https://youtu.be/51XVxq8Rhv4?si=Miib1nnQYAbZYrJX)

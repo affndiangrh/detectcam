@@ -27,6 +27,9 @@ Anda dapat menginstal pustaka yang diperlukan dengan menggunakan `pip`:
 ```bash
 pip install opencv-python dlib
 ```
+## Big Thanks
+
+- **DeaAfrizal** : Lihat Cara Full Di [Tutorial Full](https://youtu.be/51XVxq8Rhv4?si=Miib1nnQYAbZYrJX)
 
 ## Cara Menggunakan
 
@@ -43,13 +46,3 @@ pip install opencv-python dlib
    ```bash
    py main.py
 ```
-## Prerequisites
-
-Pastikan Anda telah menginstal Python dan pustaka-pustaka berikut:
-
-- `opencv-python`
-- `dlib`
-
-## Big Thanks
-
-- **DeaAfrizal** : Lihat Cara Full Di [Tutorial Full](https://youtu.be/51XVxq8Rhv4?si=Miib1nnQYAbZYrJX)

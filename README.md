@@ -43,6 +43,12 @@ pip install opencv-python dlib
    ```bash
    py main.py
 ```
+## Prerequisites
+
+Pastikan Anda telah menginstal Python dan pustaka-pustaka berikut:
+
+- `opencv-python`
+- `dlib`
 
 ## Big Thanks
 
